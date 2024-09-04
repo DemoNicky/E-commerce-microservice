@@ -1,0 +1,8 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŞÈ¾ô8õí™Ú›2
+d
+java:S1854"BRemove this useless assignment to local variable "orderLineItems".(©”¯Áÿÿÿÿÿ8øÔøÚ›2
+U
+java:S1481"3Remove this unused "orderLineItems" local variable.(©”¯Áÿÿÿÿÿ8•ÄúÚ›2
+P
+java:S1068"3Remove this unused "orderRepository" private field.(Ş¥•8™ÄúÚ›2
